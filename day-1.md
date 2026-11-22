@@ -2,6 +2,7 @@
 
 ## Morning Planning
 Beautiful sunny day and I'm brushing up GitHub:
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 - Introduction to Git
   1. Create branch
   2. Add initial commit
@@ -28,6 +29,3 @@ ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output
 ```
 
 ![Mona the Octocat](./original.png)
-
-
-![Mona the Octocat](https://octodex.github.com/images/original.png)
